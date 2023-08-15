@@ -197,7 +197,10 @@ The transitions from picture to picture and page to page should be logical and s
 Helpful Links:
 - [Children's Book Generated With ChatGPT & Midjourney](https://80.lv/articles/children-s-book-generated-with-chatgpt-midjourney/ "GenAI as your co-creator! That's a when!!!")
 - [Children's Book Idea's](https://kindlepreneur.com/childrens-book-ideas/ "Great Guide to writing & publishing a Children's Book")
-- 
+  
+---
+
+- [Storyboard Template](https://docs.google.com/presentation/d/1j7jxXu40GxFyXzIWxCWiUiI1R_F3YHJerPzVBBdd2fg/edit?usp=sharing)
 
 
 
